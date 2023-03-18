@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/railway-ssr/static/css/main.31d6cfe0.css",
+    "main.js": "/railway-ssr/static/js/main.ae8bfd01.js",
+    "static/js/787.b0c5a4bb.chunk.js": "/railway-ssr/static/js/787.b0c5a4bb.chunk.js",
+    "index.html": "/railway-ssr/index.html",
+    "main.ae8bfd01.js.map": "/railway-ssr/static/js/main.ae8bfd01.js.map",
+    "787.b0c5a4bb.chunk.js.map": "/railway-ssr/static/js/787.b0c5a4bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ae8bfd01.js"
+  ]
+}
